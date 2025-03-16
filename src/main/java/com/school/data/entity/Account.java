@@ -23,6 +23,8 @@ public class Account {
 
     @Column(name = "opening_balance", nullable = false)
     private BigDecimal openingBalance;
+    
+    
 
     // Constructors
     public Account() {}
