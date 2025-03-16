@@ -49,7 +49,7 @@ public class SchoolManagementSystemApplication extends Application {
 			stageManager.switchScene(FxmlView.LOGIN);
 		}*/
 		//stageManager.switchScene(FxmlView.LOGIN);
-		stageManager.switchScene(FxmlView.LOGIN);
+		stageManager.switchScene(FxmlView.CREATE);
 		//stageManager.switchScene(FxmlView.CREATE);
 		//stageManager.switchScene(FxmlView.BILLING);
 		//stageManager.switchScene(FxmlView.CUSTOMER);
